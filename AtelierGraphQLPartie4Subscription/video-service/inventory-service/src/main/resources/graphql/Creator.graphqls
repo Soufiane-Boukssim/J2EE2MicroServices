@@ -1,0 +1,5 @@
+type Creator2 {
+    id : Float,
+    name : String,
+    email : String
+}

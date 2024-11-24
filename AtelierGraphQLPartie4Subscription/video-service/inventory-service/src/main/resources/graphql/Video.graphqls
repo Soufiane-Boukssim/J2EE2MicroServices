@@ -1,0 +1,8 @@
+type Video2 {
+    id : Float,
+    name : String,
+    url : String,
+    description : String,
+    datePublication : String,
+    creator : Creator2
+}
